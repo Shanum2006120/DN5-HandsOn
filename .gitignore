@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+**/.idea/
+
+# Maven
+target/
+**/target/
+
+# OS files
+.DS_Store
+Thumbs.db
